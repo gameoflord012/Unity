@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 37
+  controlID: 61
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -515,9 +515,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 90390000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cf9ffff
+      m_ExpandedIDs: 98f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -579,7 +579,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 1.7481781, y: -0.17699367, z: -0.2948771}
     speed: 2
-    m_Value: {x: 1.6445514, y: -0.31338474, z: -0.25906637}
+    m_Value: {x: 1.7481781, y: -0.17699367, z: -0.2948771}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -631,7 +631,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.492101
     speed: 2
-    m_Value: 9.939372
+    m_Value: 9.492101
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -720,7 +720,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 1
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/GamesPlusJames - Unity 2D RPG
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -732,7 +733,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 76350000
     m_LastClickedID: 13686
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000008c390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -760,7 +761,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffffce480000
+    m_ExpandedIDs: ffffffff000000008c390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
